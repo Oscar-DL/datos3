@@ -1,0 +1,7 @@
+body {background:#b8ebff; text-align: center; font-family: Arial; font-size: 1.65em;}
+h1 {color: #002054; font-weight: bold; padding: .25em; display: inline-block; background:white; border-radius: 1em; position: sticky; top:0.25em;}
+p {color: #1645de; margin-top: -.65em;}
+a {color: #0048c2; text-decoration: none}
+table {background-color: black;}
+td {background-color: #ccf1ff; text-align:center; padding: 0.2em; color: #002054;}
+th {background-color: #94c2e3; padding: 0.2em; color: #002054;}
