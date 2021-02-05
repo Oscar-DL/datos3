@@ -1,0 +1,15 @@
+body {background-color: #23262b; color:white; font-family:Product Sans; font-size:1.65em; text-align:center;}
+h1 {display: inline-block; background:#2a4673; border-radius:0.8em; padding: 0.25em; border: 0.05em solid #2a4673; position: sticky; top: 0.35em; margin-top: 0.75em; margin-bottom: 0.02em}
+a {color:white; text-decoration: none; background-color:rgb(); ;}
+li {list-style-type:none;}
+table {background:white; margin-top: -2em; border-radius: 0.7em}
+td {text-align:center; padding:0.2em; background:#31363d;}
+th {background: #495463; padding:0.2em;}
+#a {border-top-left-radius: 0.7em;}
+#b {border-top-right-radius: 0.7em;}
+#c {border-bottom-left-radius: 0.7em;}
+#d {border-bottom-right-radius: 0.7em;}
+
+@font-face {
+  font-family: 'Product Sans';
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
